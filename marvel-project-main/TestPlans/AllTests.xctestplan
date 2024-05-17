@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "0B020CEA-95CD-4D2C-B578-492FD75CACE1",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Marvel.xcodeproj",
+        "identifier" : "B585BFD12B22246000D76968",
+        "name" : "MarvelUITests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Marvel.xcodeproj",
+        "identifier" : "B5706B912AFD54B6005ECBD9",
+        "name" : "Marvel_Tests"
+      }
+    }
+  ],
+  "version" : 1
+}
