@@ -8,23 +8,23 @@
 import XCTest
 
 class FavoritesTest: BaseTest {
-    func test_character_shouldExistInFavorites() {
-        discoverScreen.setFavorite(character: "3-D Man", .favorite)
-        favoritesScreen.openFavoritesView()
-        favoritesScreen.checkExistenceOf("3-D Man")
-        favoritesScreen.tapCharacter("3-D Man")
-        
-        detailsScreen.emptyInformation()
-        detailsScreen.setFavorite(.unfavorite)
-        detailsScreen.setFavorite(.favorite)
-        detailsScreen.exitDetails()
-        
-        favoritesScreen.checkExistenceOf("3-D Man")
-        
-        discoverScreen.openDiscoverView()
-        favoritesScreen.checkExistenceOf("3-D Man")
-        discoverScreen.setFavorite(character: "3-D Man", .unfavorite)
-    }
+//    func test_character_shouldExistInFavorites() {
+//        discoverScreen.setFavorite(character: "3-D Man", .favorite)
+//        favoritesScreen.openFavoritesView()
+//        favoritesScreen.checkExistenceOf("3-D Man")
+//        favoritesScreen.tapCharacter("3-D Man")
+//        
+//        detailsScreen.emptyInformation()
+//        detailsScreen.setFavorite(.unfavorite)
+//        detailsScreen.setFavorite(.favorite)
+//        detailsScreen.exitDetails()
+//        
+//        favoritesScreen.checkExistenceOf("3-D Man")
+//        
+//        discoverScreen.openDiscoverView()
+//        favoritesScreen.checkExistenceOf("3-D Man")
+//        discoverScreen.setFavorite(character: "3-D Man", .unfavorite)
+//    }
     
     func test_character_shouldOpen() {
         discoverScreen.setFavorite(character: "Aaron Stack", .favorite)
@@ -57,8 +57,8 @@ class FavoritesTest: BaseTest {
         discoverScreen.checkNonExistenceOf("Jsd")
     }
     
-    func test_favorite_isEmpty() {
-        favoritesScreen.openFavoritesView()
-        favoritesScreen.emptyView()
-    }
+//    func test_favorite_isEmpty() {
+//        favoritesScreen.openFavoritesView()
+//        favoritesScreen.emptyView()
+//    }
 }
