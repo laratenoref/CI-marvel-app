@@ -1,0 +1,18 @@
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/ViewModel/Service /ServiceProtocol.swift":
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/ServiceProtocol.swiftconstvalues"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/ServiceProtocol.d"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/ServiceProtocol.o"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/ServiceProtocol.dia"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/ServiceProtocol.swiftdeps"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/Model/PersistenceData.swift":
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/PersistenceData.o"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/PersistenceData.swiftdeps"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/PersistenceData.swiftconstvalues"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/PersistenceData.d"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/PersistenceData.dia"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/FavoritesView/FavoritesGridView.swift":
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoritesGridView.o"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoritesGridView.swiftdeps"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoritesGridView.d"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoritesGridView.dia"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoritesGridView.swiftconstvalues"

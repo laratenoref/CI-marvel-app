@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Marvel_Tests-master.dia",
+    "emit-module-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Marvel_Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Marvel_Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Marvel_Tests-master.swiftdeps"
+  },
+  "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel_Tests/Helpers/MockError.swift" : {
+    "const-values" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockError.swiftconstvalues",
+    "dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockError.d",
+    "diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockError.dia",
+    "index-unit-output-path" : "/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockError.o",
+    "llvm-bc" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockError.bc",
+    "object" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockError.o",
+    "swift-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockError.swiftdeps",
+    "swiftmodule" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockError~partial.swiftmodule"
+  },
+  "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel_Tests/Helpers/MockService.swift" : {
+    "const-values" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockService.swiftconstvalues",
+    "dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockService.d",
+    "diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockService.dia",
+    "index-unit-output-path" : "/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockService.o",
+    "llvm-bc" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockService.bc",
+    "object" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockService.o",
+    "swift-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockService.swiftdeps",
+    "swiftmodule" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockService~partial.swiftmodule"
+  },
+  "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel_Tests/Helpers/MockServiceState.swift" : {
+    "const-values" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockServiceState.swiftconstvalues",
+    "dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockServiceState.d",
+    "diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockServiceState.dia",
+    "index-unit-output-path" : "/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockServiceState.o",
+    "llvm-bc" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockServiceState.bc",
+    "object" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockServiceState.o",
+    "swift-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockServiceState.swiftdeps",
+    "swiftmodule" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/MockServiceState~partial.swiftmodule"
+  },
+  "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel_Tests/Test_APIResponse.swift" : {
+    "const-values" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_APIResponse.swiftconstvalues",
+    "dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_APIResponse.d",
+    "diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_APIResponse.dia",
+    "index-unit-output-path" : "/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_APIResponse.o",
+    "llvm-bc" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_APIResponse.bc",
+    "object" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_APIResponse.o",
+    "swift-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_APIResponse.swiftdeps",
+    "swiftmodule" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_APIResponse~partial.swiftmodule"
+  },
+  "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel_Tests/Test_DiscoverViewModel.swift" : {
+    "const-values" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_DiscoverViewModel.swiftconstvalues",
+    "dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_DiscoverViewModel.d",
+    "diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_DiscoverViewModel.dia",
+    "index-unit-output-path" : "/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_DiscoverViewModel.o",
+    "llvm-bc" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_DiscoverViewModel.bc",
+    "object" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_DiscoverViewModel.o",
+    "swift-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_DiscoverViewModel.swiftdeps",
+    "swiftmodule" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_DiscoverViewModel~partial.swiftmodule"
+  },
+  "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel_Tests/Test_FixedParameters.swift" : {
+    "const-values" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_FixedParameters.swiftconstvalues",
+    "dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_FixedParameters.d",
+    "diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_FixedParameters.dia",
+    "index-unit-output-path" : "/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_FixedParameters.o",
+    "llvm-bc" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_FixedParameters.bc",
+    "object" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_FixedParameters.o",
+    "swift-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_FixedParameters.swiftdeps",
+    "swiftmodule" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_FixedParameters~partial.swiftmodule"
+  },
+  "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel_Tests/Test_Storage.swift" : {
+    "const-values" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_Storage.swiftconstvalues",
+    "dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_Storage.d",
+    "diagnostics" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_Storage.dia",
+    "index-unit-output-path" : "/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_Storage.o",
+    "llvm-bc" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_Storage.bc",
+    "object" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_Storage.o",
+    "swift-dependencies" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_Storage.swiftdeps",
+    "swiftmodule" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel_Tests.build/Objects-normal/arm64/Test_Storage~partial.swiftmodule"
+  }
+}

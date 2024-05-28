@@ -1,0 +1,77 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "443f3c21ffc0ad0abf6a32f7200c0dca36ac5427210cf81236bcf6ff0967aafa"
+    },
+    {
+      "guid" : "443f3c21ffc0ad0abf6a32f7200c0dca79a6c9b1e25e2585c9b304a27784d5d8"
+    },
+    {
+      "guid" : "443f3c21ffc0ad0abf6a32f7200c0dcac01597109104ce8691a2961bac7eeef4"
+    }
+  ],
+  "containerPath" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app/marvel-project-main/Marvel.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Products",
+      "derivedDataPath" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build",
+      "indexDataStoreFolderPath" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphonesimulator17.4"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "3402214E-FF68-4698-AB0B-110AB5BC407D",
+          "TARGET_DEVICE_MODEL" : "iPhone15,4",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

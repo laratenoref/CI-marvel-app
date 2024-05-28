@@ -1,0 +1,16 @@
+{
+  "source": "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/Components/SortingComponent.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Ordering by name"
+      },
+      {
+        "comment": "",
+        "key": "Change"
+      }
+    ]
+  },
+  "version": 1
+}

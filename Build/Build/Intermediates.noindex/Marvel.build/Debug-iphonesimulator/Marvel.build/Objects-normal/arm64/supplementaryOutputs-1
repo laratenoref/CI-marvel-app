@@ -1,0 +1,18 @@
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/Colors.swift":
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Colors.o"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Colors.dia"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Colors.swiftconstvalues"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Colors.swiftdeps"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Colors.d"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/Model/APIResponse.swift":
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/APIResponse.swiftdeps"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/APIResponse.dia"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/APIResponse.swiftconstvalues"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/APIResponse.d"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/APIResponse.o"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/ViewModel/Service /Service.swift":
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Service.dia"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Service.swiftconstvalues"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Service.d"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Service.o"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Service.swiftdeps"

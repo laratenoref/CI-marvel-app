@@ -1,0 +1,18 @@
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/Components/SortingComponent.swift":
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SortingComponent.swiftconstvalues"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SortingComponent.o"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SortingComponent.d"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SortingComponent.swiftdeps"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SortingComponent.dia"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/ViewModel/Storage/Storage.swift":
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Storage.swiftconstvalues"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Storage.o"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Storage.d"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Storage.dia"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Storage.swiftdeps"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/DiscoverView/DiscoverView.swift":
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverView.d"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverView.o"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverView.swiftdeps"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverView.swiftconstvalues"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverView.dia"

@@ -1,0 +1,8 @@
+workspace "marvel-project-main/Marvel.xcodeproj/project.xcworkspace"
+scheme "Marvel"
+sdk "iphonesimulator"
+device "iPhone 15"
+code_coverage true
+xcargs '-parallelizeTargets'
+prelaunch_simulator true
+derived_data_path "Build/"

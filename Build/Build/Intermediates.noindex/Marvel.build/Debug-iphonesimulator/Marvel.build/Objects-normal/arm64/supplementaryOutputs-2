@@ -1,0 +1,18 @@
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/Details/DetailsCell.swift":
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DetailsCell.swiftconstvalues"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DetailsCell.o"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DetailsCell.d"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DetailsCell.dia"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DetailsCell.swiftdeps"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View+.swift":
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/View+.swiftdeps"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/View+.dia"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/View+.swiftconstvalues"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/View+.d"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/View+.o"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/MainView.swift":
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/MainView.swiftconstvalues"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/MainView.dia"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/MainView.o"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/MainView.d"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/MainView.swiftdeps"

@@ -1,0 +1,18 @@
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/Details/Shadow.swift":
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Shadow.dia"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Shadow.d"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Shadow.swiftdeps"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Shadow.swiftconstvalues"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/Shadow.o"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/ViewModel/DiscoverViewModel.swift":
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverViewModel.d"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverViewModel.swiftconstvalues"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverViewModel.o"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverViewModel.swiftdeps"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverViewModel.dia"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/ViewModel/Service /NetworkLogger.swift":
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/NetworkLogger.d"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/NetworkLogger.o"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/NetworkLogger.swiftdeps"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/NetworkLogger.swiftconstvalues"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/NetworkLogger.dia"

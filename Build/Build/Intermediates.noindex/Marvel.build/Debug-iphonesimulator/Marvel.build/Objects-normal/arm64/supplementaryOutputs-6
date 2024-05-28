@@ -1,0 +1,18 @@
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/Components/SearchComponent.swift":
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SearchComponent.dia"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SearchComponent.d"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SearchComponent.o"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SearchComponent.swiftconstvalues"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/SearchComponent.swiftdeps"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/FavoritesView/FavoriteCharacterCell.swift":
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoriteCharacterCell.o"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoriteCharacterCell.swiftconstvalues"
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoriteCharacterCell.d"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoriteCharacterCell.swiftdeps"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/FavoriteCharacterCell.dia"
+"/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/DiscoverView/DiscoverCharacterCell.swift":
+  dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverCharacterCell.d"
+  const-values: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverCharacterCell.swiftconstvalues"
+  swift-dependencies: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverCharacterCell.swiftdeps"
+  diagnostics: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverCharacterCell.dia"
+  object: "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/Build/Build/Intermediates.noindex/Marvel.build/Debug-iphonesimulator/Marvel.build/Objects-normal/arm64/DiscoverCharacterCell.o"

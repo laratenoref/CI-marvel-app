@@ -1,0 +1,16 @@
+{
+  "source": "/Users/laratenore/Documents/CI-CD/CI-marvel-app-main/marvel-project-main/Marvel/View/Components/SearchComponent.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Type to start searching"
+      },
+      {
+        "comment": "",
+        "key": ""
+      }
+    ]
+  },
+  "version": 1
+}

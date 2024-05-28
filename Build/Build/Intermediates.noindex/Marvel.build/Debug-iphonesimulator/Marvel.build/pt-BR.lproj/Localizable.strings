@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string> </string>
+	<key>%@</key>
+	<string>%@</string>
+	<key>Change</key>
+	<string>Mudar</string>
+	<key>Discover</key>
+	<string>Personagens</string>
+	<key>Favorites</key>
+	<string>Favoritos</string>
+	<key>Marvel</key>
+	<string>Marvel</string>
+	<key>No description available</key>
+	<string>Não há descrição disponível</string>
+	<key>No favorites saved!</key>
+	<string>Sem favoritos</string>
+	<key>No results found!</key>
+	<string>Nenhum resultado encontrado</string>
+	<key>Ordering by name</key>
+	<string>Ordenando por nome</string>
+	<key>Please try again later</key>
+	<string>Por favor, tente novamente mais tarde</string>
+	<key>Type to start searching</key>
+	<string>Clique para pesquisar</string>
+	<key>You didn't save any characters yet</key>
+	<string>Você ainda não salvou nenhum personagem</string>
+</dict>
+</plist>
