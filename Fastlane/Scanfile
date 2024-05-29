@@ -2,6 +2,7 @@ workspace "marvel-project-main/Marvel.xcodeproj/project.xcworkspace"
 scheme "Marvel"
 sdk "iphonesimulator"
 device "iPhone 13 (15.2)"
+destination "platform=iOS Simulator,name=iPhone 13,OS=15.2"
 code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true
