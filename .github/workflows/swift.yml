@@ -16,13 +16,13 @@ jobs:
         with:
           xcode-version: latest-stable
     
-      - name: Prepare iOS 17.4 simulator
+      - name: Prepare iOS 15.2 simulator
         run: |
           sudo mkdir -p /Library/Developer/CoreSimulator/Profiles/Runtimes
-          sudo ln -s /Applications/Xcode_15.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime /Library/Developer/CoreSimulator/Profiles/Runtimes/iOS\ 17.4.simruntime
+          sudo ln -s /Applications/Xcode_15.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime /Library/Developer/CoreSimulator/Profiles/Runtimes/iOS\ 15.2.simruntime
           xcrun simctl list runtimes
           xcrun simctl list devices
-          xcrun simctl create custom-test-device "iPhone 15 Pro" "com.apple.CoreSimulator.SimRuntime.iOS-17-4"
+          xcrun simctl create custom-test-device "iPhone 13 Pro" "com.apple.CoreSimulator.SimRuntime.iOS-15-2"
 
       - uses: ruby/setup-ruby@v1
 
