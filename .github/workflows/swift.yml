@@ -21,8 +21,8 @@ jobs:
           sudo mkdir -p /Library/Developer/CoreSimulator/Profiles/Runtimes
           sudo ln -s /Applications/Xcode_13.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime /Library/Developer/CoreSimulator/Profiles/Runtimes/iOS\ 16.4.simruntime
           xcrun simctl list runtimes
+          xcrun simctl list devices
           xcrun simctl create custom-test-device "iPhone 8" "com.apple.CoreSimulator.SimRuntime.iOS-16-4"
-          xcrun simctl list devices 16.4
 
       - uses: ruby/setup-ruby@v1
 
