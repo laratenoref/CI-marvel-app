@@ -30,6 +30,12 @@ jobs:
       - name: Install Bundler
         run: gem install bundler
 
+      - name: Install yeetd
+        run: |
+          wget https://github.com/biscuitehh/yeetd/releases/download/1.0/yeetd-normal.pkg
+          sudo installer -pkg yeetd-normal.pkg -target /
+          yeetd &
+          
       - name: Install gems
         run: bundle install
 
