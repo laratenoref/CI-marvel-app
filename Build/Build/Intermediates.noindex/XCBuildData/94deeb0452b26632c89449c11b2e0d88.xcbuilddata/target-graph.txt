@@ -1,6 +1,0 @@
-Target dependency graph (3 targets)
-Target 'Marvel_Tests' in project 'Marvel'
-➜ Explicit dependency on target 'Marvel' in project 'Marvel'
-Target 'MarvelUITests' in project 'Marvel'
-➜ Explicit dependency on target 'Marvel' in project 'Marvel'
-Target 'Marvel' in project 'Marvel' (no dependencies)

@@ -1,2 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<testsuites tests='0' failures='0'/>
+<testsuites name='Marvel_Tests.xctest' tests='16' failures='0'>
+  <testsuite name='Marvel_Tests.Test_FixedParameters' tests='1' failures='0'>
+    <testcase classname='Marvel_Tests.Test_FixedParameters' name='test_MD5' time='0.001'/>
+  </testsuite>
+  <testsuite name='Marvel_Tests.test_APIResponse' tests='4' failures='0'>
+    <testcase classname='Marvel_Tests.test_APIResponse' name='test_character_equatable' time='0.000'/>
+    <testcase classname='Marvel_Tests.test_APIResponse' name='test_description_nil' time='0.000'/>
+    <testcase classname='Marvel_Tests.test_APIResponse' name='test_extractImage_optional' time='0.000'/>
+    <testcase classname='Marvel_Tests.test_APIResponse' name='test_extractImage_URL' time='0.000'/>
+  </testsuite>
+  <testsuite name='Marvel_Tests.test_DiscoverViewModel' tests='7' failures='0'>
+    <testcase classname='Marvel_Tests.test_DiscoverViewModel' name='test_isLoadingMoreCharacters_shouldBeTrue' time='0.000'/>
+    <testcase classname='Marvel_Tests.test_DiscoverViewModel' name='test_loadInitialCharacters_emptyState' time='0.002'/>
+    <testcase classname='Marvel_Tests.test_DiscoverViewModel' name='test_loadInitialCharacters_requestFailed' time='0.001'/>
+    <testcase classname='Marvel_Tests.test_DiscoverViewModel' name='test_loadInitialCharacters_requestSucceeded' time='1.448'/>
+    <testcase classname='Marvel_Tests.test_DiscoverViewModel' name='test_loadMoreCharacters_isLoadingMoreCharactersFail' time='0.001'/>
+    <testcase classname='Marvel_Tests.test_DiscoverViewModel' name='test_loadMoreCharacters_isLoadingMoreCharactersSuccess' time='1.360'/>
+    <testcase classname='Marvel_Tests.test_DiscoverViewModel' name='test_someCharacteres_startsEmpty' time='0.001'/>
+  </testsuite>
+  <testsuite name='Marvel_Tests.test_Storage' tests='4' failures='0'>
+    <testcase classname='Marvel_Tests.test_Storage' name='test_isFavorite_shouldBeFalse' time='0.003'/>
+    <testcase classname='Marvel_Tests.test_Storage' name='test_isFavorite_shouldBeTrue' time='0.005'/>
+    <testcase classname='Marvel_Tests.test_Storage' name='test_updateFavoritesList_shouldAddCharacter' time='0.003'/>
+    <testcase classname='Marvel_Tests.test_Storage' name='test_updateFavoritesList_shouldRemoveCharacter' time='0.005'/>
+  </testsuite>
+</testsuites>

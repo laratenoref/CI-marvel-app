@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>1C121ACF-73BD-47C3-9CDF-DEBE2C8A4B80</key>
+		<key>466AE185-DB59-4B34-832B-5DF4B57A57F1</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,13 +15,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1C121ACF-73BD-47C3-9CDF-DEBE2C8A4B80.xcactivitylog</string>
+			<string>466AE185-DB59-4B34-832B-5DF4B57A57F1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
@@ -29,7 +29,7 @@
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>116</integer>
+				<integer>0</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Marvel project</string>
@@ -40,13 +40,97 @@
 			<key>signature</key>
 			<string>Testing workspace Marvel with scheme Marvel</string>
 			<key>timeStartedRecording</key>
-			<real>738603420.54544199</real>
+			<real>738705764.19406998</real>
 			<key>timeStoppedRecording</key>
-			<real>738603422.32196903</real>
+			<real>738705766.38174498</real>
 			<key>title</key>
 			<string>Testing workspace Marvel with scheme Marvel</string>
 			<key>uniqueIdentifier</key>
-			<string>1C121ACF-73BD-47C3-9CDF-DEBE2C8A4B80</string>
+			<string>466AE185-DB59-4B34-832B-5DF4B57A57F1</string>
+		</dict>
+		<key>6A9DA0FD-1C64-4AC3-A15B-A15F788AE5D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A9DA0FD-1C64-4AC3-A15B-A15F788AE5D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Marvel project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Marvel</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Marvel with scheme Marvel</string>
+			<key>timeStartedRecording</key>
+			<real>738705756.10802495</real>
+			<key>timeStoppedRecording</key>
+			<real>738705764.18596804</real>
+			<key>title</key>
+			<string>Building workspace Marvel with scheme Marvel</string>
+			<key>uniqueIdentifier</key>
+			<string>6A9DA0FD-1C64-4AC3-A15B-A15F788AE5D2</string>
+		</dict>
+		<key>7FBF3996-33F3-4637-93EC-B76364E54B9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7FBF3996-33F3-4637-93EC-B76364E54B9F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Marvel project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Marvel</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Marvel with scheme Marvel</string>
+			<key>timeStartedRecording</key>
+			<real>738705716.11898303</real>
+			<key>timeStoppedRecording</key>
+			<real>738705725.29197598</real>
+			<key>title</key>
+			<string>Building workspace Marvel with scheme Marvel</string>
+			<key>uniqueIdentifier</key>
+			<string>7FBF3996-33F3-4637-93EC-B76364E54B9F</string>
 		</dict>
 	</dict>
 </dict>

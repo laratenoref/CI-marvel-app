@@ -6,6 +6,69 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>273F0562-6A9B-4AED-8C03-E65F92AD06D9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6A9DA0FD-1C64-4AC3-A15B-A15F788AE5D2</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Run-Marvel-2024.05.29_17-02-36--0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasCoverageData</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalCodeCoverage</key>
+				<real>0.57069046500704557</real>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Marvel project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Marvel</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Marvel</string>
+			<key>timeStartedRecording</key>
+			<real>738705756.10851598</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Marvel</string>
+			<key>uniqueIdentifier</key>
+			<string>273F0562-6A9B-4AED-8C03-E65F92AD06D9</string>
+		</dict>
 		<key>66BF551D-41B6-4FFC-836F-A9E9187F39C9</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>

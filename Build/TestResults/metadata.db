@@ -13,7 +13,7 @@
 				<key>test_MD5</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00081694126129150391</real>
+					<real>0.0011450052261352539</real>
 				</dict>
 			</dict>
 			<key>test_APIResponse</key>
@@ -21,22 +21,22 @@
 				<key>test_character_equatable</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00032305717468261719</real>
+					<real>0.00034403800964355469</real>
 				</dict>
 				<key>test_description_nil</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00028407573699951172</real>
+					<real>0.00029301643371582031</real>
 				</dict>
 				<key>test_extractImage_URL</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00026500225067138672</real>
+					<real>0.00031292438507080078</real>
 				</dict>
 				<key>test_extractImage_optional</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00028502941131591797</real>
+					<real>0.0004119873046875</real>
 				</dict>
 			</dict>
 			<key>test_DiscoverViewModel</key>
@@ -44,37 +44,37 @@
 				<key>test_isLoadingMoreCharacters_shouldBeTrue</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00031006336212158203</real>
+					<real>0.00036799907684326172</real>
 				</dict>
 				<key>test_loadInitialCharacters_emptyState</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0094430446624755859</real>
+					<real>0.0021870136260986328</real>
 				</dict>
 				<key>test_loadInitialCharacters_requestFailed</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0011799335479736328</real>
+					<real>0.00092101097106933594</real>
 				</dict>
 				<key>test_loadInitialCharacters_requestSucceeded</key>
 				<dict>
 					<key>mrnet</key>
-					<real>1.5463120937347412</real>
+					<real>1.4482659101486206</real>
 				</dict>
 				<key>test_loadMoreCharacters_isLoadingMoreCharactersFail</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0013070106506347656</real>
+					<real>0.00095105171203613281</real>
 				</dict>
 				<key>test_loadMoreCharacters_isLoadingMoreCharactersSuccess</key>
 				<dict>
 					<key>mrnet</key>
-					<real>1.41880202293396</real>
+					<real>1.3603299856185913</real>
 				</dict>
 				<key>test_someCharacteres_startsEmpty</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.00082194805145263672</real>
+					<real>0.00066208839416503906</real>
 				</dict>
 			</dict>
 			<key>test_Storage</key>
@@ -82,22 +82,22 @@
 				<key>test_isFavorite_shouldBeFalse</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0060020685195922852</real>
+					<real>0.0026230812072753906</real>
 				</dict>
 				<key>test_isFavorite_shouldBeTrue</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0082380771636962891</real>
+					<real>0.0053830146789550781</real>
 				</dict>
 				<key>test_updateFavoritesList_shouldAddCharacter</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0040919780731201172</real>
+					<real>0.0025860071182250977</real>
 				</dict>
 				<key>test_updateFavoritesList_shouldRemoveCharacter</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0078499317169189453</real>
+					<real>0.0050230026245117188</real>
 				</dict>
 			</dict>
 		</dict>
