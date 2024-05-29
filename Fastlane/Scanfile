@@ -1,7 +1,7 @@
 workspace "marvel-project-main/Marvel.xcodeproj/project.xcworkspace"
 scheme "Marvel"
 sdk "iphonesimulator"
-destination "platform=iOS Simulator,name=iPhone 8,OS=13.7"
+destination "platform=iOS Simulator,name=iPhone 15 Pro,OS=17.4"
 code_coverage true
 xcargs '-parallelizeTargets'
 prelaunch_simulator true
