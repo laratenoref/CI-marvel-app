@@ -31,19 +31,19 @@ class DiscoverTest: BaseTest {
         discoverScreen.checkNonExistenceOf("Jsd")
     }
     
-//    func test_tappedCharacter_shouldFavoriteAndUnfavorite() {
-//        discoverScreen.tapCharacter("3-D Man")
-//        
-//        detailsScreen.emptyInformation()
-//        
-//        detailsScreen.setFavorite(.favorite)
-//        detailsScreen.setFavorite(.unfavorite)
-//        
-//        detailsScreen.exitDetails()
-//    }
-//    
-//    func test_favoriteButton_shouldFavoriteAndUnfavorite() {
-//        discoverScreen.setFavorite(character: "3-D Man", .favorite)
-//        discoverScreen.setFavorite(character: "3-D Man", .unfavorite)
-//    }
+    func test_tappedCharacter_shouldFavoriteAndUnfavorite() {
+        discoverScreen.tapCharacter("3-D Man")
+        
+        detailsScreen.emptyInformation()
+        
+        detailsScreen.setFavorite(.favorite)
+        detailsScreen.setFavorite(.unfavorite)
+        
+        detailsScreen.exitDetails()
+    }
+    
+    func test_favoriteButton_shouldFavoriteAndUnfavorite() {
+        discoverScreen.setFavorite(character: "3-D Man", .favorite)
+        discoverScreen.setFavorite(character: "3-D Man", .unfavorite)
+    }
 }
